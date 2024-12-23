@@ -64,7 +64,7 @@
 - **Lab Overview**: Learn how to identify and secure sensitive data across your digital environment using Google Workspace and advanced security tools.  
 - **Course Link**: [Discover and Protect Sensitive Data Across Your Ecosystem](https://www.cloudskillsboost.google/course_templates/1177) 
 - **Challenge Lab**: [Discover and Protect Sensitive Data Across Your Ecosystem: Challenge Lab](https://www.cloudskillsboost.google/course_templates/1177/labs/518525)  
-- **Solution**: [GSP376 Lab Solution]() 
+- **Solution**: [GSP522 Lab Solution]() 
 
 ---
 
