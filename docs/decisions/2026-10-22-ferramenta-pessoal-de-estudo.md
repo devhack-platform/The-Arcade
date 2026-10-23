@@ -2,7 +2,7 @@
 
 **Direção discutida:** 2026-10-22.  
 **Classificação pretendida:** ferramenta de apoio ao aprendizado e à participação pessoal no Google Skills/Arcade, **não um produto comercial**.  
-**Diretriz transversal:** https://github.com/devhack-platform/server-source-of-truth/pull/178
+**Princípio aplicado:** primeira versão funcional, uso real e controles proporcionais aos riscos; este documento público é autossuficiente e não depende de documentação privada.
 
 ## Prioridade
 
